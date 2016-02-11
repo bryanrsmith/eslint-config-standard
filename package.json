@@ -1,0 +1,13 @@
+{
+  "name": "@bryanrsmith/eslint-config-standard",
+  "version": "1.0.0",
+  "description": "My standard eslint config",
+  "main": "index.js",
+  "author": "Bryan R Smith <BryanRSmith@gmail.com>",
+  "homepage": "https://github.com/bryanrsmith/eslint-config-standard",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bryanrsmith/eslint-config-standard.git"
+  },
+  "license": "MIT"
+}
