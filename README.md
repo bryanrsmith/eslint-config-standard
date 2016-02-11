@@ -7,16 +7,15 @@ example .eslintrc:
 
 ```json
 {
-	"extends": "@bryanrsmith/eslint-config-standard",
-	"parser": "babel-eslint",
-	"env": {
-		"es6": true,
-		"node": true
-	},
-	"ecmaFeatures": {
-		"modules": true,
-		"experimentalObjectRestSpread": true
-	}
+    "extends": "@bryanrsmith/eslint-config-standard",
+    "parser": "babel-eslint",
+    "env": {
+        "es6": true,
+        "node": true
+    },
+    "ecmaFeatures": {
+        "modules": true,
+        "experimentalObjectRestSpread": true
+    }
 }
-
 ```
