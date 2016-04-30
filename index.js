@@ -20,7 +20,7 @@ module.exports = {
 		"no-console": 0,
 		"max-len": 0,
 		"new-cap": 0,
-		"quote-props": "consistent",
+		"quote-props": [2, "consistent"],
 		"array-bracket-spacing": [2, "always", {
 			"objectsInArrays": false,
 			"arraysInArrays": false
