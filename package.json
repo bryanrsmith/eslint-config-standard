@@ -1,6 +1,6 @@
 {
   "name": "@bryanrsmith/eslint-config-standard",
-  "version": "2.0.2",
+  "version": "2.1.2",
   "description": "My standard eslint config",
   "main": "index.js",
   "author": "Bryan R Smith <BryanRSmith@gmail.com>",
